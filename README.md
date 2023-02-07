@@ -16,16 +16,16 @@ A tabela "turma" com "alunos" tem uma relação de muitos para muitos (N:N), poi
 
 TABELA CURSO =
 
-![https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_curso.png]
+![](https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_curso.png)
 
 TABELA ALUNO =
 
-![https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_aluno.png]
+![](https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_aluno.png)
 
 TABELA PROFESSOR =
 
-![https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_professor.png]
+![](https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_professor.png)
 
 TABELA TURMA =
 
-![https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_turma.png]
+![](https://github.com/rafapili/Acompanhamento_Resilia/blob/2c11d4e6ccef782ef003fe196397092313868003/table_turma.png)
