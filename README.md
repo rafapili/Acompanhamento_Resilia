@@ -9,9 +9,11 @@ Os campos mais utilizados foram os nomes e IDS dependendo de cada tabela , para 
 
 
 3️ = Como essas entidades estão relacionadas?
+
 A tabela "turma" com "curso" tem uma relação de muitos para um (N:1), já que pode existir muitos cursos e turma pode ter apenas um curso.
-A tabela "turma" com "facilitador" tem uma relação de muitos para muitos (N:N), já que facilitador pode ter várias turmas e turma pode possuir vários facilitadores.
+A tabela "turma" com "professor" tem uma relação de muitos para muitos (N:N), já que professor pode ter várias turmas e turma pode possuir vários professores.
 A tabela "turma" com "alunos" tem uma relação de muitos para muitos (N:N), pois alunos podem pertencer a várias turmas, assim como turmas podem possuir muitos alunos.
+
 
 
 TABELA CURSO =
